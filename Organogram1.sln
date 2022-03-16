@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organogram", "Organogram1\Organogram.csproj", "{B150145B-FD93-4231-8AD7-63DF427BDA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OranogramTest", "OranogramTest\OranogramTest.csproj", "{1550DDE2-D5ED-4955-B9EC-875DB558D7F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B150145B-FD93-4231-8AD7-63DF427BDA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B150145B-FD93-4231-8AD7-63DF427BDA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B150145B-FD93-4231-8AD7-63DF427BDA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B150145B-FD93-4231-8AD7-63DF427BDA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1550DDE2-D5ED-4955-B9EC-875DB558D7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1550DDE2-D5ED-4955-B9EC-875DB558D7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1550DDE2-D5ED-4955-B9EC-875DB558D7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1550DDE2-D5ED-4955-B9EC-875DB558D7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2CC01F-63C0-4511-BC9E-D36C04CDF471}
+	EndGlobalSection
+EndGlobal
